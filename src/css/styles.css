@@ -18,3 +18,24 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+	list-style: none;
+}
+.item-cantry{
+	display: flex;
+	margin-bottom: 10px;
+}
+.item-cantry img{
+	margin-right: 5px;
+}
+.card-icon-name{
+	display: flex;
+	align-items: center;
+}
+.card-icon-name img{
+	margin-right: 10px;
+}
+.card-text span{
+	font-weight: 500;
+}
